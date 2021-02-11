@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sRzF7jsKzYo6duI15G6QBpttKNcq+KXmMAAh85wrQk3EOY9Gi/TI9E+M5f5euWmAEisp/uhxWhucu7uFyWwTxQ==",
+  "success": true,
+  "projectFilePath": "/Users/montygouki/Projects/BankEncapsulationPratice_Solu/BankEncapsulationPratice/BankEncapsulationPratice.csproj",
+  "expectedPackageFiles": [
+    "/Users/montygouki/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
